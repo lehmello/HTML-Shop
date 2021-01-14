@@ -14,6 +14,18 @@ body{
 
 }
 
+.tablelist{
+	text-align: justify;
+	border-color: black;
+	border-spacing: 2px;
+	margin-top: 85px;
+	position: absolute;
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
+	background-color: #8C470B;
+}
+
 #buttoninicio{
 	background-color: #F2AB27;
 	width: 100%;
