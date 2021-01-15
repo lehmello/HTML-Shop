@@ -1,6 +1,7 @@
 body{
 	margin: 0px;
-	background-color: #F2E49B;
+	background-color: #C4C4C4;
+	color: white;
 }
 
 
@@ -10,12 +11,12 @@ body{
 	height: 50px;
 	width: 100%;
 	position: absolute;
-	background-color: #8C470B;
+	background-color: #444465;
 
 }
 
 .tablelist{
-	text-align: justify;
+	text-align: left;
 	border-color: black;
 	border-spacing: 2px;
 	margin-top: 85px;
@@ -23,11 +24,12 @@ body{
 	width: 96%;
 	margin-left: 2%;
 	margin-right: 2%;
-	background-color: #8C470B;
+	background-color: #444465;
 }
 
-#buttoninicio{
-	background-color: #F2AB27;
+#buttonlist{
+	color: white;
+	background-color: #2E2E54;
 	width: 100%;
 	height: 100%;
 	border-color: transparent;
@@ -35,9 +37,22 @@ body{
 	border-bottom-left-radius: 15px; 
 
 }
+#buttonbusca{
+	color: white;
+	background-color: #2E2E54;
+	width: 100%;
+	height: 100%;
+	border-color: transparent;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px; 
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+
+}
 
 #buttoncontato{
-	background-color: #F2AB27;
+	color: white;
+	background-color: #2E2E54;
 	width: 100%;
 	height: 100%;
 	border-color: transparent;
@@ -46,9 +61,14 @@ body{
 
 }
 #buttonindex{
-	background-color: #F2AB27;
+	color: white;
+	background-color: #2E2E54;
 	width: 100%;
 	height: 100%;
 	border-color: transparent;
 
+}
+
+#trinicio{
+	width: 50%;
 }
