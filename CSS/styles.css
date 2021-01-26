@@ -27,6 +27,19 @@ body{
 	background-color: #444465;
 }
 
+.tablecont{
+
+	text-align: center;
+	border-color: black;
+	border-spacing: 2px;
+	margin-top: 60px;
+	position: absolute;
+	width: 82%;
+	height: 500px;
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
 #buttonlist{
 	color: white;
 	background-color: #2E2E54;
@@ -37,6 +50,7 @@ body{
 	border-bottom-left-radius: 15px; 
 
 }
+
 #buttonbusca{
 	color: white;
 	background-color: #2E2E54;
@@ -60,6 +74,7 @@ body{
 	border-bottom-right-radius: 15px; 
 
 }
+
 #buttonindex{
 	color: white;
 	background-color: #2E2E54;
@@ -67,6 +82,42 @@ body{
 	height: 100%;
 	border-color: transparent;
 
+}
+
+#buttongit{
+	color: white;
+	background-color: #2E2E54;
+	width: 100%;
+	height: 100%;
+	border-color: transparent;
+	border-top-left-radius: 15px;
+}
+
+#buttondin{
+	color: white;
+	background-color: #2E2E54;
+	width: 100%;
+	height: 100%;
+	border-color: transparent;
+	border-top-right-radius: 15px;
+}
+
+#buttoninsta{
+	color: white;
+	background-color: #2E2E54;
+	width: 100%;
+	height: 100%;
+	border-color: transparent;
+	border-bottom-left-radius: 15px;
+}
+
+#buttonface{
+	color: white;
+	background-color: #2E2E54;
+	width: 100%;
+	height: 100%;
+	border-color: transparent;
+	border-bottom-right-radius: 15px; 
 }
 
 #trinicio{
